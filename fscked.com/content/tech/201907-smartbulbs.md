@@ -1,10 +1,9 @@
 ---
 title: "Use cases for smart bulbs"
 date: 2019-07-20T13:33:24+01:00
-draft: true
 ---
 
-Last year, I bought a house. Subsequently, I [bought rather a lot of Hue devices](xxx). When I [mentioned a while back on Twitter](xxx) about this newfound and arguably out-of-control smartbulb addiction, some friends expressed mild opinions that amounted roughly to _have you lost your damned mind?!_ Wounded, I now turn to this blog post as an attempt to justify this to myself, and also to you.
+Last year, I bought a house. Subsequently, I [bought rather a lot of Hue devices][1]. When I [mentioned a while back on Twitter][2] about this newfound and arguably out-of-control smartbulb addiction, some friends expressed mild opinions that amounted roughly to _have you lost your damned mind?!_ Wounded, I now turn to this blog post as an attempt to justify this to myself, and also to you.
 
 The truth is that although it's unfashionable non-cynical, I've found the Hue system to be well-considered, well-designed, and genuinely useful. It's even won over my wife, who has much less patience than I for the vagaries of technology. Here are some of the things that won us over and some things we learned along the way.
 
@@ -65,3 +64,6 @@ I have these rigged up to all our corridors, our kitchen, and our garden lights.
 ## A footnote about the limitations of Hue
 
 xxx
+
+[1]:	xxx
+[2]:	xxx
